@@ -1,0 +1,1 @@
+The author retains copyright permissions for the TRACA software and task code and associated files.  Users can download the code and run it, but not redistribute it.  Any other use needs written permission from the author.
